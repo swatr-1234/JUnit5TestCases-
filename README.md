@@ -1,0 +1,1 @@
+This project is about JUnit 5 different testCases.
